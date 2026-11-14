@@ -1,0 +1,24 @@
+# Compiled Binaries and Objects
+*.out
+*.exe
+*.o
+*.obj
+a.out
+
+# Local Archives and extracted temp folders
+*.zip
+dsa2/
+
+# IDE and Editor configurations
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# Temporary & backup files
+*.bak
